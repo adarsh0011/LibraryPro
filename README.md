@@ -123,17 +123,7 @@ You can also register as a reader using register form.
 
 ### Screenshots
 
-![user list page (admin view)](https://github.com/user-attachments/assets/b33686f8-10ca-4668-9310-19daa85d09ca)
-This page introduce user list view enabled for users with admin role. It allows managing registered users, including editing user data, activating/deactivating users. For users with reader role the administrator can see reader's rentals and delete non-archived rent if needed.
 
-![book list (librarian view)](https://github.com/user-attachments/assets/7e1f9d81-4ab5-4b5b-a7a8-9f2594dafcae)
-This page introduce book list view enabled for users with librarian role. It allows managing books, including editing book data, archiving books, adding new books to the library. If the book is currently rented it cannot be edited or archived.
-
-![book list (reader view)](https://github.com/user-attachments/assets/1c06eb33-f7ca-4998-a0da-1f50e7dd2bde)
-This page introduce book list view enabled for users with reader role. It allows reader to rent available books with rental period specification (rental can be in future) or without - rental begins after confirmation. If the book is currently rented it cannot be rented by any other user.
-
-![active rents list (reader view)](https://github.com/user-attachments/assets/85b4cbe5-53de-4cd3-8877-bcad74963acc)
-This page introduce active rents list view enabled for users with reader role. It allows reader to browse his active rents and ended the selected rent on request.
 
 ## Author
 
